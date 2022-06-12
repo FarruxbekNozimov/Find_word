@@ -1,0 +1,34 @@
+Who is the President of Russia?-putin
+Who is the boss of Google now?-pichai
+What is the largest country in the world?-russia
+Which is the longest river in the world?-nile
+What is the highest mountain in the world?-everest
+Which is the largest ocean in the world?-pacific
+What is the largest continent in the world?-eurasia
+The largest high waterfall in the world?-anxel
+What is the most populous country in the world?-china
+Which is the smallest country in the world?-vatican
+Which is the smallest continent in the world?-australia
+Which is the hottest continent in the world?-africa
+Which is the coldest continent in the world?-antarctica
+Which is the largest cactus in the world?-saguaro
+What is the largest mammal in the world?-whale
+What is the largest lake in the world?-caspian
+What is the deepest lake in the world?-baikal
+What is the deepest ocean in the world?-indian
+What is the capital of the USA?-washington
+What is the capital of the Uzbekistan?-tashkent
+What is the capital of the Russia?-moscow
+What is the capital of the Afghanistan?-kabul
+What is the capital of the Algeria?-algiers
+What is the capital of the Albania?-tirane
+What is the capital of the Angola?-luanda
+What is the capital of the Australia?-canberra
+What is the capital of the Armenia?-yerevan
+What is the capital of the Azerbaijan?-baku
+What is the capital of the Bangladesh?-dhaka
+What is the capital of the Brazil?-brasilia
+What is the capital of the Canada?-ottawa
+What is the capital of the Chile?-santiago
+What is the capital of the Indonesia?-jakarta
+What is the capital of the Turkmenistan	?-Ashgabat
